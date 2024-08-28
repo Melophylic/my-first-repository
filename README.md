@@ -5,5 +5,3 @@
 # Kelas: PBP E
 # Hobi: Tidur
 # Jurusan: Ilmu Sistem Informasi Komputer
-
-change
